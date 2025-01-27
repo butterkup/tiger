@@ -1,0 +1,4 @@
+# Workfiles, test data, hidden assets.
+*.ign
+ignore.*
+
